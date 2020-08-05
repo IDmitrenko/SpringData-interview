@@ -1,4 +1,4 @@
-package ru.dias.SpringDatainterview;
+package ru.dias.springdatainterview;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
